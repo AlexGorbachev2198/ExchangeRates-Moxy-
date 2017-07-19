@@ -1,2 +1,2 @@
 # ExchangeRates-Moxy-
-#Moxy project sample
+# Moxy project sample
